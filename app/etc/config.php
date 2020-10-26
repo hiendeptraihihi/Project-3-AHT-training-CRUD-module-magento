@@ -251,6 +251,8 @@ return [
         'Magento_WishlistAnalytics' => 1,
         'Magento_WishlistGraphQl' => 1,
         'Magento_WishlistSampleData' => 1,
+        'AHT_Blog' => 1,
+        'AHT_HelloWorld' => 1,
         'Amazon_Core' => 1,
         'Amazon_Login' => 1,
         'Amazon_Payment' => 1,
@@ -264,8 +266,6 @@ return [
         'Temando_ShippingRemover' => 1,
         'Vertex_Tax' => 1,
         'Vertex_AddressValidation' => 1,
-        'Yotpo_Yotpo' => 1,
-        'Zino_Blog' => 1,
-        'Zino_HelloWorld' => 1
+        'Yotpo_Yotpo' => 1
     ]
 ];
